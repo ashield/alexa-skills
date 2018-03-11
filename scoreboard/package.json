@@ -1,0 +1,14 @@
+{
+  "name": "scoreboard",
+  "version": "1.0.0",
+  "description": "Keep track of your tournament scores with Alexa",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Andrew Shield",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25"
+  }
+}
